@@ -1,0 +1,136 @@
+Metabolite,Class,KEGGid
+"1,3-dihydroxyacetone",Misc,C00184
+2-deoxyuridine,Misc,C00526
+2-hydroxyglutaric acid,Misc,C02630
+2-ketoisocaproic acid ,Misc,
+3-(3-hydroxyphenyl)propionic acid,Misc,C11457
+3-hydroxybutyric acid,Misc,C01089
+4-hydroxyphenylacetic acid,Misc,C00642
+6-deoxy-D-glucose,Carbohydrate,C02522
+alpha tocophereol,Misc,C02477
+alpha-muricholic acid,Sterol,C17647
+aminomalonic acid,Amino acid,C00872
+arabitol,Carbohydrate,C00532
+arachidic acid,Lipid,C06425
+arachidonic acid,Lipid,C00219
+behenic acid,Lipid,C08281
+beta-glycerolphosphate,Misc,C02979
+beta-muricholic acid,Sterol,C17727
+beta-sitosterol,Sterol,C01753
+beta-tocopherol,Misc,C14152
+campesterol,Sterol,C01789
+carbonate ion,Inorganic ion,C00288
+chenodeoxycholic acid,Sterol,C02528
+"cholesta-3,5-diene",Sterol,
+"(3-beta,5-alpha)-cholestan-3-ol",Sterol,
+cholesterol,Sterol,C00187
+cholic acid,Sterol,C00695
+citric acid,TCA,C00158
+coprostanol,Sterol,
+creatinine,Misc,C00791
+dehydroalanine,Amino acid,C02218
+delta-tocopherol,Misc,C14151
+D-galacturonic acid,Carbohydrate,C00333
+D-gluconic acid,Carbohydrate,C00257
+D-glucose,Carbohydrate,C00031
+D-glucuronic acid,Carbohydrate,C00191
+DL-dihydrosphingosine,Lipid,C00836
+D-malic acid,TCA,C00497
+D-mannitol,Carbohydrate,C00392
+D-mannose,Carbohydrate,C00159
+docosahexaenoic acid,Lipid,C06429
+D-ribose,Carbohydrate,C00121
+D-sphingosine,Lipid,C00319
+D-xylose,Carbohydrate,C00181
+eicosapentaenoic acid,Lipid,C06428
+eicosatrienoic acid,Lipid,C03242
+ethanolamine,Misc,C00189
+fructose,Carbohydrate,C00095
+fucose,Carbohydrate,C01019
+fumaric acid,TCA,C00122
+galactonic acid,Carbohydrate,C00880
+glyceric acid,Misc,C00258
+glycerol 3-phosphate,Misc,C00093
+glycine,Amino acid,C00037
+glycolic acid,Misc,C00160
+heneicosanoic acid,Lipid,
+heptadecanoic acid,Lipid,
+hexacosanoic acid,Lipid,
+hexadecanedioic acid,Lipid,C19615
+hexadecylglycerol,Lipid,
+hypotaurine,Misc,C00519
+lactate,Misc,C00186
+L-alanine,Amino acid,C00041
+lanosterol,Sterol,C01724
+L-aspartic acid,Amino acid,C00049
+lauric acid,Lipid,C02679
+L-citrulline,Amino acid,C00327
+L-cysteine,Amino acid,C00097
+L-glutamic acid,Amino acid,C00025
+lignoceric acid,Lipid,C08320
+linoleic acid,Lipid,C01595
+L-isoleucine,Amino acid,C00407
+L-leucine,Amino acid,C00123
+L-lysine,Amino acid,C00047
+L-methionine,Amino acid,C00073
+L-ornithine,Amino acid,C00077
+L-phenylalanine,Amino acid,C00079
+L-proline,Amino acid,C00148
+L-serine,Amino acid,C00065
+L-threonic acid,Amino acid,C01620
+L-threonine,Amino acid,C00188
+L-tryptophan,Amino acid,C00078
+L-tyrosine,Amino acid,C00082
+L-valine,Amino acid,C00183
+maltose,Carbohydrate,C00208
+mannitol phosphate,Carbohydrate,C00644
+methyl arachidonate,Lipid,
+methyl cholate,Sterol,C00695
+methyl docosahexaenoate,Lipid,
+methyl docosanoate,Lipid,
+methyl eicosadienoate,Lipid,
+methyl eicosanoate,Lipid,
+methyl eicosenoate,Lipid,
+methyl erucate,Lipid,
+methyl hexacosanoate,Lipid,
+methyl icosatrienoate,Lipid,
+methyl linocerate,Lipid,
+methyl linolenate,Lipid,
+methyl oleate,Lipid,
+methyl palmitate,Lipid,
+methyl pentadecanoate,Lipid,
+methyl phosphate,Misc,
+methyl stearate,Lipid,
+methyl tricosanoate,Lipid,
+methyl-beta-D-galactopyranoside,Carbohydrate,C03619
+myo-inositol,Carbohydrate,C00137
+myristic acid,Lipid,C06424
+N-acetylneuraminic acid,Carbohydrate,C00270
+nicotinic acid,Lipid,C00253
+N-methylalanine,Amino acid,C02721
+nonadecanoic acid,Lipid,C16535
+octadecylglycerol,Lipid,
+oleic acid,Lipid,C00712
+O-phosphocolamine,Misc,C00346
+palmitic acid,Lipid,C00249
+palmitoleic acid,Lipid,C08362
+pantothenic acid,Misc,C00864
+pentacosanoic acid,Lipid,
+pentadecanoic acid,Lipid,C16537
+phosphate ion,Inorganic ion,C00009
+phytosphingosine,Lipid,C12144
+pyruvic acid,TCA,C00022
+scyllo-inositol,Carbohydrate,C06153
+stearic acid,Lipid,C01530
+"stigmasta-3,5-diene  ",Sterol,
+stigmastanol,Sterol,
+Stigmasterol,Sterol,C05442
+sucrose,Carbohydrate,C00089
+tartaric acid,TCA,C00898
+taurine,Misc,C00245
+tetracosanol,Lipid,
+thymine,Misc,C00178
+trehalose,Carbohydrate,C01083
+tricosanoic acid,Lipid,
+tricosanol,Lipid,
+uracil,Misc,C00106
